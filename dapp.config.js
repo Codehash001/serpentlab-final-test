@@ -7,8 +7,8 @@ const config = {
   maxMintAmount: 4,
   WlMaxMintAmount: 2,
   firstCost :0 ,
-  wlcost: 0.01,
-  publicSalePrice:0.01
+  wlcost: 0.008,
+  publicSalePrice:0.008
 }
 
 const onboardOptions = {
